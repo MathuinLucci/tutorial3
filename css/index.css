@@ -41,6 +41,11 @@ nav.horizontalNavigation li {
    float:left;
 }
 
+nav.horizontalNavigation a {
+   display:block;
+   text-align:center;
+}
+
 /* Left Column Styles */
 
 section#leftColumn {
@@ -57,7 +62,7 @@ section#rightColumn {
    width: 67%;
 }
 
-section#right img {
+section#rightColumn img {
    display: block;
    width: 100%;
 }

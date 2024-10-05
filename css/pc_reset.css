@@ -31,7 +31,7 @@ address , article , aside , blockquote , body , cite , div , dl , dt , dd , em ,
    vertical-align: baseline;
    -webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
-   box-sizing:border-box;
+   box-sizing: border-box;
 }
 
 nav ul {
